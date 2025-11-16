@@ -95,7 +95,7 @@ Build command: npm run build or vite build
 
 Output dir: dist
 
-Set env var: VITE_API_BASE_URL=https://<your-backend-url>
+Set env var
 
 Backend → Render / Railway / Heroku
 
@@ -103,5 +103,4 @@ Start command: npm start
 
 Ensure CORS allows the frontend origin (or use cors() for development)
 
-Example live backend used during development:
-https://chatapp-e1a8.onrender.com
+https://chatapp-eight-wheat.vercel.app/
